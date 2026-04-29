@@ -7,6 +7,10 @@ approval loop. Evals run nightly to detect prompt drift.
 Built to demonstrate: "Build and maintain AI social media agents that monitor performance,
 generate content drafts, and execute scheduled publishing workflows."
 
+## Demo
+
+![Slack approval loop](assets/slack_approval.png)
+
 ## Architecture
 
 ```
@@ -28,7 +32,7 @@ GitHub Actions handles the cron schedule.
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-username/contentloop
+git clone https://github.com/nedu-m/contentloop
 cd contentloop
 pip install -r requirements.txt
 ```
