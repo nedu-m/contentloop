@@ -9,6 +9,10 @@ generate content drafts, and execute scheduled publishing workflows."
 
 ## Demo
 
+**ClickUp — content topics queue**
+![ClickUp topics](assets/clickup_topics.png)
+
+**Slack — approval loop**
 ![Slack approval loop](assets/slack_approval.png)
 
 ## Architecture
