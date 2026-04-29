@@ -7,6 +7,8 @@ approval loop. Evals run nightly to detect prompt drift.
 Built to demonstrate: "Build and maintain AI social media agents that monitor performance,
 generate content drafts, and execute scheduled publishing workflows."
 
+**Live demo:** https://contentloop.streamlit.app
+
 ## Demo
 
 **ClickUp — content topics queue**
